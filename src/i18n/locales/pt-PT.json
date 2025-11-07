@@ -177,34 +177,62 @@
     "workTogether": "Vamos Trabalhar Juntos",
     "projectPrivate": "Projeto é privado - confidencialidade do cliente",
     "codePrivate": "Código é privado - confidencialidade do cliente",
+    "challenges": "Principais Desafios",
+    "scope": "Âmbito",
     "items": {
-      "garden": {
-        "title": "Sistema de Reservas de Jardins",
-        "description": "Um sistema de reservas full-stack com website para clientes e portal de administração. Características incluem reservas em tempo real, autenticação segura e integração com base de dados MySQL.",
-        "type": "Aplicação Web Full-Stack",
-        "category": "Projeto Universitário",
-        "technologies": ["PHP", "MySQL", "HTML", "CSS", "JavaScript"]
+      "tachograph": {
+        "title": "Aplicação Mobile Tachógrafo",
+        "description": "Desenvolvi uma aplicação React Native para gestão de dados de tachógrafo no setor dos transportes. Construí sistemas completos de login/registo, uma interface intuitiva para integração de leitor de cartões, e comunicação perfeita com a API do portal IDHA para processamento e armazenamento de dados.",
+        "type": "Aplicação Mobile React Native",
+        "category": "Setor dos Transportes",
+        "technologies": ["React Native", "REST API", "Autenticação", "Integração Portal IDHA"],
+        "scope": "Construí sistemas de login/registo, interface de leitor de cartões, e integrei com a API do portal IDHA para processamento e armazenamento de dados",
+        "challenges": "Garantir sincronização de dados em tempo real e conformidade com regulamentos de transporte"
       },
-      "marketplace": {
-        "title": "Marketplace Blockchain dApp",
-        "description": "Um marketplace descentralizado construído com tecnologia blockchain, permitindo transações peer-to-peer seguras com integração de smart contracts.",
-        "type": "Aplicação Descentralizada",
-        "category": "Projeto Freelance",
-        "technologies": ["React", "Solidity", "Ethereum", "Web3.js", "Node.js"]
+      "fitness": {
+        "title": "Aplicação Marketplace de Fitness",
+        "description": "Atualmente a desenvolver um projeto pessoal React Native - um marketplace de fitness que conecta clientes com especialistas em fitness. Inclui perfis de utilizador, sistemas de reserva, e funcionalidade de chat em tempo real planeada para comunicação perfeita.",
+        "type": "Aplicação Mobile React Native",
+        "category": "Setor Saúde & Bem-estar",
+        "technologies": ["React Native", "Redux", "Gestão de Estado", "Integração API", "Chat em Tempo Real"],
+        "scope": "Criar um marketplace conectando clientes com especialistas em fitness, com perfis de utilizador, sistemas de reserva, e funcionalidade de chat em tempo real planeada",
+        "challenges": "Projetar uma interface escalável para compatibilidade cross-platform (iOS/Android)"
       },
-      "game": {
-        "title": "Plataforma de Jogos Web 3.0",
-        "description": "Uma plataforma de jogos interativa que aproveita a tecnologia blockchain para propriedade de ativos e transações no jogo.",
-        "type": "Plataforma de Jogos",
-        "category": "Projeto Freelance",
-        "technologies": ["React", "React Native", "Smart Contracts", "Blockchain"]
+      "nftStaking": {
+        "title": "Plataforma de Staking NFT",
+        "description": "Construí uma plataforma de staking ao vivo na rede Hedera usando React. Desenvolvi uma interface completa com sistema de votação baseado em holdings de NFT, painel de administração para confirmações de transação/pagamento em massa, e mecânicas de staking para geração de rendimento passivo.",
+        "type": "Aplicação Web React",
+        "category": "Setor Blockchain/NFT",
+        "technologies": ["React", "Blockchain Hedera", "Web3.js", "Smart Contracts", "Integração NFT"],
+        "scope": "Desenvolvi interface com sistema de votação baseado em holdings de NFT, painel de administração para confirmações de transação/pagamento em massa, e mecânicas de staking para rendimento passivo",
+        "challenges": "Garantir conexões seguras de carteira e atualizações de votação em tempo real"
       },
-      "modern": {
-        "title": "Aplicação Web Moderna",
-        "description": "Uma aplicação web responsiva construída com tecnologias modernas, apresentando atualizações em tempo real e experiência de utilizador perfeita.",
-        "type": "Aplicação Web",
-        "category": "Projeto Freelance",
-        "technologies": ["React", "TypeScript", "Tailwind CSS", "Node.js", "Vercel"]
+      "rapidbids": {
+        "title": "Plataforma RapidBids",
+        "description": "Colaborei com dois desenvolvedores para criar RapidBids, uma plataforma baseada em React para venda de carros usados através de leilões. Projetei a interface para licitações e listagens de carros, integrei com backend para atualizações em tempo real, e implementei um sistema de leilão unidirecional.",
+        "type": "Aplicação Web React",
+        "category": "Setor Automóvel",
+        "technologies": ["React", "Node.js", "Sincronização de Dados em Tempo Real", "Sistema de Leilão", "Integração Backend"],
+        "scope": "Projetei interface para licitações e listagens de carros, integrei com backend para atualizações em tempo real, e implementei sistema de leilão unidirecional",
+        "challenges": "Otimizar desempenho para eventos de leilão de alto tráfego"
+      },
+      "realEstate": {
+        "title": "Website e Aplicação Web Imobiliária",
+        "description": "Desenvolvi uma plataforma baseada em React para tokenizar propriedades na blockchain. Construí um marketplace para vendas de NFT, sistema de staking para investimentos cripto em renovações de propriedades, e planeei uma plataforma de e-learning para educação de detentores.",
+        "type": "Aplicação Web React",
+        "category": "Setor Imobiliário/Blockchain",
+        "technologies": ["React", "Blockchain Hedera", "Smart Contracts", "Marketplace NFT", "Sistema de Staking"],
+        "scope": "Construí marketplace para vendas de NFT, sistema de staking para investimentos cripto em renovações de propriedades, e planeei plataforma de e-learning para educação de detentores",
+        "challenges": "Equilibrar complexidade da interface com velocidade de transação blockchain"
+      },
+      "landingPages": {
+        "title": "Múltiplas Páginas de Destino",
+        "description": "Projetei e desenvolvi 9-10 páginas de destino para diversos clientes, usando HTML, CSS, JS vanilla, e React. Criei páginas de destino de alta conversão com formulários de contacto, secções de blog/notícias, banners promocionais, integrações de API para conteúdo dinâmico, e backends Node.js para submissões de formulários. Implementei serviços de email OAuth Google para autenticação de utilizadores.",
+        "type": "Desenvolvimento Web",
+        "category": "Vários Setores",
+        "technologies": ["HTML5", "CSS3", "JavaScript", "React", "Node.js", "OAuth 2.0", "Integração API"],
+        "scope": "Criei páginas de destino de alta conversão com formulários de contacto, secções de blog/notícias, banners promocionais, integrações de API, e serviços de email OAuth Google",
+        "challenges": "Garantir design responsivo e taxas de conversão ótimas em diferentes requisitos de clientes"
       }
     },
     "categories": {

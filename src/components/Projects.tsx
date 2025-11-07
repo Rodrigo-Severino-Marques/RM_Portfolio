@@ -6,32 +6,58 @@ const Projects = () => {
   const { t } = useTranslation()
   const projects = [
     {
-      title: t('projects.items.garden.title'),
-      description: t('projects.items.garden.description'),
-      technologies: t('projects.items.garden.technologies', { returnObjects: true }) as string[],
-      type: t('projects.items.garden.type'),
-      category: t('projects.items.garden.category'),
+      title: t('projects.items.tachograph.title'),
+      description: t('projects.items.tachograph.description'),
+      technologies: t('projects.items.tachograph.technologies', { returnObjects: true }) as string[],
+      type: t('projects.items.tachograph.type'),
+      category: t('projects.items.tachograph.category'),
+      scope: t('projects.items.tachograph.scope'),
+      challenges: t('projects.items.tachograph.challenges'),
     },
     {
-      title: t('projects.items.marketplace.title'),
-      description: t('projects.items.marketplace.description'),
-      technologies: t('projects.items.marketplace.technologies', { returnObjects: true }) as string[],
-      type: t('projects.items.marketplace.type'),
-      category: t('projects.items.marketplace.category'),
+      title: t('projects.items.fitness.title'),
+      description: t('projects.items.fitness.description'),
+      technologies: t('projects.items.fitness.technologies', { returnObjects: true }) as string[],
+      type: t('projects.items.fitness.type'),
+      category: t('projects.items.fitness.category'),
+      scope: t('projects.items.fitness.scope'),
+      challenges: t('projects.items.fitness.challenges'),
     },
     {
-      title: t('projects.items.game.title'),
-      description: t('projects.items.game.description'),
-      technologies: t('projects.items.game.technologies', { returnObjects: true }) as string[],
-      type: t('projects.items.game.type'),
-      category: t('projects.items.game.category'),
+      title: t('projects.items.nftStaking.title'),
+      description: t('projects.items.nftStaking.description'),
+      technologies: t('projects.items.nftStaking.technologies', { returnObjects: true }) as string[],
+      type: t('projects.items.nftStaking.type'),
+      category: t('projects.items.nftStaking.category'),
+      scope: t('projects.items.nftStaking.scope'),
+      challenges: t('projects.items.nftStaking.challenges'),
     },
     {
-      title: t('projects.items.modern.title'),
-      description: t('projects.items.modern.description'),
-      technologies: t('projects.items.modern.technologies', { returnObjects: true }) as string[],
-      type: t('projects.items.modern.type'),
-      category: t('projects.items.modern.category'),
+      title: t('projects.items.rapidbids.title'),
+      description: t('projects.items.rapidbids.description'),
+      technologies: t('projects.items.rapidbids.technologies', { returnObjects: true }) as string[],
+      type: t('projects.items.rapidbids.type'),
+      category: t('projects.items.rapidbids.category'),
+      scope: t('projects.items.rapidbids.scope'),
+      challenges: t('projects.items.rapidbids.challenges'),
+    },
+    {
+      title: t('projects.items.realEstate.title'),
+      description: t('projects.items.realEstate.description'),
+      technologies: t('projects.items.realEstate.technologies', { returnObjects: true }) as string[],
+      type: t('projects.items.realEstate.type'),
+      category: t('projects.items.realEstate.category'),
+      scope: t('projects.items.realEstate.scope'),
+      challenges: t('projects.items.realEstate.challenges'),
+    },
+    {
+      title: t('projects.items.landingPages.title'),
+      description: t('projects.items.landingPages.description'),
+      technologies: t('projects.items.landingPages.technologies', { returnObjects: true }) as string[],
+      type: t('projects.items.landingPages.type'),
+      category: t('projects.items.landingPages.category'),
+      scope: t('projects.items.landingPages.scope'),
+      challenges: t('projects.items.landingPages.challenges'),
     },
   ]
 
@@ -79,9 +105,31 @@ const Projects = () => {
                 <p className="text-gray-400 mb-1 text-sm font-semibold">
                   {project.type}
                 </p>
-                <p className="text-gray-300 mb-6 leading-relaxed">
+                <p className="text-gray-300 mb-4 leading-relaxed">
                   {project.description}
                 </p>
+
+                {project.scope && (
+                  <div className="mb-4">
+                    <p className="text-cyan-400 text-sm font-semibold mb-1">
+                      {t('projects.scope')}:
+                    </p>
+                    <p className="text-gray-400 text-sm leading-relaxed">
+                      {project.scope}
+                    </p>
+                  </div>
+                )}
+
+                {project.challenges && (
+                  <div className="mb-6">
+                    <p className="text-teal-400 text-sm font-semibold mb-1">
+                      {t('projects.challenges')}:
+                    </p>
+                    <p className="text-gray-400 text-sm leading-relaxed">
+                      {project.challenges}
+                    </p>
+                  </div>
+                )}
 
                 <div className="flex flex-wrap gap-2 mb-6">
                   {project.technologies.map((tech, techIndex) => (

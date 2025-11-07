@@ -177,34 +177,62 @@
     "workTogether": "Let's Work Together",
     "projectPrivate": "Project is private - client confidentiality",
     "codePrivate": "Code is private - client confidentiality",
+    "challenges": "Key Challenges",
+    "scope": "Scope",
     "items": {
-      "garden": {
-        "title": "Garden Booking System",
-        "description": "A full-stack booking system with customer-facing website and admin portal. Features real-time bookings, secure authentication, and MySQL database integration.",
-        "type": "Full-Stack Web Application",
-        "category": "University Project",
-        "technologies": ["PHP", "MySQL", "HTML", "CSS", "JavaScript"]
+      "tachograph": {
+        "title": "Tachograph Mobile App",
+        "description": "Developed a React Native app for tachograph data management in the transportation sector. Built comprehensive login/signup systems, an intuitive UI for card reader integration, and seamless communication with the IDHA portal API for data processing and storage.",
+        "type": "React Native Mobile Application",
+        "category": "Transportation Sector",
+        "technologies": ["React Native", "REST API", "Authentication", "IDHA Portal Integration"],
+        "scope": "Built login/signup systems, card reader UI, and integrated with IDHA portal API for data processing and storage",
+        "challenges": "Ensured real-time data sync and compliance with transportation regulations"
       },
-      "marketplace": {
-        "title": "Blockchain Marketplace dApp",
-        "description": "A decentralized marketplace built on blockchain technology, enabling secure peer-to-peer transactions with smart contract integration.",
-        "type": "Decentralized Application",
-        "category": "Freelance Project",
-        "technologies": ["React", "Solidity", "Ethereum", "Web3.js", "Node.js"]
+      "fitness": {
+        "title": "Fitness Marketplace App",
+        "description": "Currently developing a personal React Native project - a fitness marketplace connecting clients with fitness experts. Features user profiles, booking systems, and planned real-time chat functionality for seamless communication.",
+        "type": "React Native Mobile Application",
+        "category": "Health & Wellness Sector",
+        "technologies": ["React Native", "Redux", "State Management", "API Integration", "Real-time Chat"],
+        "scope": "Creating a marketplace connecting clients with fitness experts, featuring user profiles, booking systems, and planned real-time chat functionality",
+        "challenges": "Designing a scalable UI for cross-platform compatibility (iOS/Android)"
       },
-      "game": {
-        "title": "Web 3.0 Game Platform",
-        "description": "An interactive gaming platform leveraging blockchain technology for asset ownership and in-game transactions.",
-        "type": "Gaming Platform",
-        "category": "Freelance Project",
-        "technologies": ["React", "React Native", "Smart Contracts", "Blockchain"]
+      "nftStaking": {
+        "title": "NFT Staking Platform",
+        "description": "Built a live staking platform on the Hedera network using React. Developed a comprehensive UI with voting system based on NFT holdings, admin panel for bulk transaction/payout confirmations, and staking mechanics for passive income generation.",
+        "type": "React Web Application",
+        "category": "Blockchain/NFT Sector",
+        "technologies": ["React", "Hedera Blockchain", "Web3.js", "Smart Contracts", "NFT Integration"],
+        "scope": "Developed UI with voting system based on NFT holdings, admin panel for bulk transaction/payout confirmations, and staking mechanics for passive income",
+        "challenges": "Ensured secure wallet connections and real-time voting updates"
       },
-      "modern": {
-        "title": "Modern Web Application",
-        "description": "A responsive web application built with modern technologies, featuring real-time updates and seamless user experience.",
-        "type": "Web Application",
-        "category": "Freelance Project",
-        "technologies": ["React", "TypeScript", "Tailwind CSS", "Node.js", "Vercel"]
+      "rapidbids": {
+        "title": "RapidBids Platform",
+        "description": "Collaborated with two developers to create RapidBids, a React-based platform for selling second-hand cars via auctions. Designed the UI for bidding and car listings, integrated with backend for real-time updates, and implemented a one-way auction system.",
+        "type": "React Web Application",
+        "category": "Automotive Sector",
+        "technologies": ["React", "Node.js", "Real-time Data Sync", "Auction System", "Backend Integration"],
+        "scope": "Designed UI for bidding and car listings, integrated with backend for real-time updates, and implemented one-way auction system",
+        "challenges": "Optimized performance for high-traffic auction events"
+      },
+      "realEstate": {
+        "title": "Real Estate Website & Web App",
+        "description": "Developed a React-based platform to tokenize properties on the blockchain. Built a marketplace for NFT sales, staking system for crypto investments in property renovations, and planned an e-learning platform for holder education.",
+        "type": "React Web Application",
+        "category": "Real Estate/Blockchain Sector",
+        "technologies": ["React", "Hedera Blockchain", "Smart Contracts", "NFT Marketplace", "Staking System"],
+        "scope": "Built marketplace for NFT sales, staking system for crypto investments in property renovations, and planned e-learning platform for holder education",
+        "challenges": "Balancing UI complexity with blockchain transaction speed"
+      },
+      "landingPages": {
+        "title": "Multiple Landing Pages",
+        "description": "Designed and developed 9-10 landing pages for diverse clients, using vanilla HTML, CSS, JS, and React. Created high-conversion landing pages with contact forms, blog/news sections, promotional banners, API integrations for dynamic content, and Node.js backends for form submissions. Implemented OAuth Google email services for user authentication.",
+        "type": "Web Development",
+        "category": "Various Sectors",
+        "technologies": ["HTML5", "CSS3", "JavaScript", "React", "Node.js", "OAuth 2.0", "API Integration"],
+        "scope": "Created high-conversion landing pages with contact forms, blog/news sections, promotional banners, API integrations, and OAuth Google email services",
+        "challenges": "Ensuring responsive design and optimal conversion rates across different client requirements"
       }
     },
     "categories": {
