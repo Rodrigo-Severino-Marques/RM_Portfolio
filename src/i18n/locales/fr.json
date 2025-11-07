@@ -202,58 +202,58 @@
         "technologies": ["React", "React Native", "Smart Contracts", "Blockchain"]
       },
       "tachograph": {
-        "title": "Tachograph Mobile App",
-        "description": "Developed a React Native app for tachograph data management in the transportation sector. Built comprehensive login/signup systems, an intuitive UI for card reader integration, and seamless communication with the IDHA portal API for data processing and storage.",
-        "type": "React Native Mobile Application",
-        "category": "Transportation Sector",
-        "technologies": ["React Native", "REST API", "Authentication", "IDHA Portal Integration"],
-        "scope": "Built login/signup systems, card reader UI, and integrated with IDHA portal API for data processing and storage",
-        "challenges": "Ensured real-time data sync and compliance with transportation regulations"
+        "title": "Application Mobile Tachographe",
+        "description": "Développé une application React Native pour la gestion des données de tachographe dans le secteur des transports. Construit des systèmes complets de connexion/inscription, une interface intuitive pour l'intégration de lecteur de cartes, et une communication transparente avec l'API du portail IDHA pour le traitement et le stockage des données.",
+        "type": "Application Mobile React Native",
+        "category": "Secteur des Transports",
+        "technologies": ["React Native", "REST API", "Authentification", "Intégration Portail IDHA"],
+        "scope": "Construit des systèmes de connexion/inscription, interface de lecteur de cartes, et intégré avec l'API du portail IDHA pour le traitement et le stockage des données",
+        "challenges": "Assuré la synchronisation des données en temps réel et la conformité aux réglementations des transports"
       },
       "fitness": {
-        "title": "Fitness Marketplace App",
-        "description": "Currently developing a personal React Native project - a fitness marketplace connecting clients with fitness experts. Features user profiles, booking systems, and planned real-time chat functionality for seamless communication.",
-        "type": "React Native Mobile Application",
-        "category": "Health & Wellness Sector",
-        "technologies": ["React Native", "Redux", "State Management", "API Integration", "Real-time Chat"],
-        "scope": "Creating a marketplace connecting clients with fitness experts, featuring user profiles, booking systems, and planned real-time chat functionality",
-        "challenges": "Designing a scalable UI for cross-platform compatibility (iOS/Android)"
+        "title": "Application Marketplace Fitness",
+        "description": "Développe actuellement un projet personnel React Native - un marketplace de fitness connectant les clients avec des experts en fitness. Comprend des profils utilisateur, des systèmes de réservation, et une fonctionnalité de chat en temps réel planifiée pour une communication transparente.",
+        "type": "Application Mobile React Native",
+        "category": "Secteur Santé et Bien-être",
+        "technologies": ["React Native", "Redux", "Gestion d'État", "Intégration API", "Chat en Temps Réel"],
+        "scope": "Création d'un marketplace connectant les clients avec des experts en fitness, avec profils utilisateur, systèmes de réservation, et fonctionnalité de chat en temps réel planifiée",
+        "challenges": "Conception d'une interface évolutive pour la compatibilité multiplateforme (iOS/Android)"
       },
       "nftStaking": {
-        "title": "NFT Staking Platform",
-        "description": "Built a live staking platform on the Hedera network using React. Developed a comprehensive UI with voting system based on NFT holdings, admin panel for bulk transaction/payout confirmations, and staking mechanics for passive income generation.",
-        "type": "React Web Application",
-        "category": "Blockchain/NFT Sector",
-        "technologies": ["React", "Hedera Blockchain", "Web3.js", "Smart Contracts", "NFT Integration"],
-        "scope": "Developed UI with voting system based on NFT holdings, admin panel for bulk transaction/payout confirmations, and staking mechanics for passive income",
-        "challenges": "Ensured secure wallet connections and real-time voting updates"
+        "title": "Plateforme de Staking NFT",
+        "description": "Construit une plateforme de staking en direct sur le réseau Hedera en utilisant React. Développé une interface complète avec système de vote basé sur les avoirs NFT, panneau d'administration pour confirmations de transaction/paiement en masse, et mécaniques de staking pour génération de revenus passifs.",
+        "type": "Application Web React",
+        "category": "Secteur Blockchain/NFT",
+        "technologies": ["React", "Blockchain Hedera", "Web3.js", "Smart Contracts", "Intégration NFT"],
+        "scope": "Développé interface avec système de vote basé sur les avoirs NFT, panneau d'administration pour confirmations de transaction/paiement en masse, et mécaniques de staking pour revenus passifs",
+        "challenges": "Assuré des connexions de portefeuille sécurisées et mises à jour de vote en temps réel"
       },
       "rapidbids": {
-        "title": "RapidBids Platform",
-        "description": "Collaborated with two developers to create RapidBids, a React-based platform for selling second-hand cars via auctions. Designed the UI for bidding and car listings, integrated with backend for real-time updates, and implemented a one-way auction system.",
-        "type": "React Web Application",
-        "category": "Automotive Sector",
-        "technologies": ["React", "Node.js", "Real-time Data Sync", "Auction System", "Backend Integration"],
-        "scope": "Designed UI for bidding and car listings, integrated with backend for real-time updates, and implemented one-way auction system",
-        "challenges": "Optimized performance for high-traffic auction events"
+        "title": "Plateforme RapidBids",
+        "description": "Collaboré avec deux développeurs pour créer RapidBids, une plateforme basée sur React pour vendre des voitures d'occasion via des enchères. Conçu l'interface pour les enchères et listes de voitures, intégré avec backend pour mises à jour en temps réel, et implémenté un système d'enchères unidirectionnel.",
+        "type": "Application Web React",
+        "category": "Secteur Automobile",
+        "technologies": ["React", "Node.js", "Synchronisation de Données en Temps Réel", "Système d'Enchères", "Intégration Backend"],
+        "scope": "Conçu interface pour enchères et listes de voitures, intégré avec backend pour mises à jour en temps réel, et implémenté système d'enchères unidirectionnel",
+        "challenges": "Optimisé les performances pour événements d'enchères à fort trafic"
       },
       "realEstate": {
-        "title": "Real Estate Website & Web App",
-        "description": "Developed a React-based platform to tokenize properties on the blockchain. Built a marketplace for NFT sales, staking system for crypto investments in property renovations, and planned an e-learning platform for holder education.",
-        "type": "React Web Application",
-        "category": "Real Estate/Blockchain Sector",
-        "technologies": ["React", "Hedera Blockchain", "Smart Contracts", "NFT Marketplace", "Staking System"],
-        "scope": "Built marketplace for NFT sales, staking system for crypto investments in property renovations, and planned e-learning platform for holder education",
-        "challenges": "Balancing UI complexity with blockchain transaction speed"
+        "title": "Site Web et Application Web Immobilière",
+        "description": "Développé une plateforme basée sur React pour tokeniser des propriétés sur la blockchain. Construit un marketplace pour ventes de NFT, système de staking pour investissements crypto dans rénovations de propriétés, et planifié une plateforme e-learning pour éducation des détenteurs.",
+        "type": "Application Web React",
+        "category": "Secteur Immobilier/Blockchain",
+        "technologies": ["React", "Blockchain Hedera", "Smart Contracts", "Marketplace NFT", "Système de Staking"],
+        "scope": "Construit marketplace pour ventes de NFT, système de staking pour investissements crypto dans rénovations de propriétés, et planifié plateforme e-learning pour éducation des détenteurs",
+        "challenges": "Équilibrer la complexité de l'interface avec la vitesse de transaction blockchain"
       },
       "landingPages": {
-        "title": "Multiple Landing Pages",
-        "description": "Designed and developed 9-10 landing pages for diverse clients, using vanilla HTML, CSS, JS, and React. Created high-conversion landing pages with contact forms, blog/news sections, promotional banners, API integrations for dynamic content, and Node.js backends for form submissions. Implemented OAuth Google email services for user authentication.",
-        "type": "Web Development",
-        "category": "Various Sectors",
-        "technologies": ["HTML5", "CSS3", "JavaScript", "React", "Node.js", "OAuth 2.0", "API Integration"],
-        "scope": "Created high-conversion landing pages with contact forms, blog/news sections, promotional banners, API integrations, and OAuth Google email services",
-        "challenges": "Ensuring responsive design and optimal conversion rates across different client requirements"
+        "title": "Plusieurs Pages d'Atterrissage",
+        "description": "Conçu et développé 9-10 pages d'atterrissage pour divers clients, utilisant HTML, CSS, JS vanilla et React. Créé des pages d'atterrissage à haute conversion avec formulaires de contact, sections blog/actualités, bannières promotionnelles, intégrations API pour contenu dynamique, et backends Node.js pour soumissions de formulaires. Implémenté services email OAuth Google pour authentification utilisateur.",
+        "type": "Développement Web",
+        "category": "Divers Secteurs",
+        "technologies": ["HTML5", "CSS3", "JavaScript", "React", "Node.js", "OAuth 2.0", "Intégration API"],
+        "scope": "Créé pages d'atterrissage à haute conversion avec formulaires de contact, sections blog/actualités, bannières promotionnelles, intégrations API, et services email OAuth Google",
+        "challenges": "Assurer un design responsive et des taux de conversion optimaux selon différents besoins clients"
       }
     },
     "categories": {
