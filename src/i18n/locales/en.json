@@ -1,0 +1,254 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "education": "Education",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Rodrigo Marques",
+    "verified": "Verified",
+    "role": "Web Developer",
+    "description": "React Frontend Developer | Experienced in Web 3.0 & dApp Development",
+    "viewWork": "View My Work",
+    "getInTouch": "Get In Touch"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Passionate developer with a focus on creating exceptional digital experiences",
+    "paragraph1": "I'm a passionate Frontend Developer with expertise in React, React Native, and Web 3.0 technologies. With over 3 years of freelance experience, I've successfully delivered more than 12 projects across diverse domains including web applications, decentralized apps (dApps), blockchain-based marketplaces, and interactive games.",
+    "paragraph2": "My journey in technology started with a solid foundation in Computing and Web Development, where I earned a Second Class Honours (Upper Division) degree. I've worked on everything from full-stack web applications to cutting-edge blockchain solutions, always focusing on delivering high-quality, user-centered experiences.",
+    "paragraph3": "Currently working as a Mid-Senior Frontend Developer at Aceve and Hexa Consulting, I specialize in React.js and React Native development. I'm based in Seixal, Setúbal, Portugal, and I'm always excited to take on new challenges and contribute to innovative projects.",
+    "features": {
+      "fullstack": {
+        "title": "Full-Stack Development",
+        "description": "Expert in both front-end and back-end technologies"
+      },
+      "database": {
+        "title": "Database Design",
+        "description": "Experienced in MySQL and database architecture"
+      },
+      "cloud": {
+        "title": "Cloud Computing",
+        "description": "Knowledgeable in cloud infrastructure and deployment"
+      },
+      "security": {
+        "title": "Security Focused",
+        "description": "Understanding of network security and best practices"
+      }
+    }
+  },
+  "skills": {
+    "title": "Skills & Technologies",
+    "subtitle": "Technologies I work with to build amazing applications",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend & Tools",
+      "blockchain": "Web 3.0 & Blockchain"
+    }
+  },
+  "experience": {
+    "title": "Work Experience",
+    "subtitle": "My professional journey and accomplishments",
+    "jobs": {
+      "aceve": {
+        "title": "Mid-Senior Frontend",
+        "company": "Aceve",
+        "location": "Lisbon, Portugal",
+        "type": "Full-time · Hybrid",
+        "period": "Jul 2025 - Present · 5 mos",
+        "description": "Working as a Mid-Senior Frontend Developer, focusing on React.js and React Native development. Utilizing Docker and Nginx for deployment, converting React to Web Components, working with Material UI, managing projects with GitLab, and implementing comprehensive unit testing."
+      },
+      "hexa": {
+        "title": "Mid-Senior Frontend",
+        "company": "Hexa Consulting",
+        "location": "Lisbon, Portugal",
+        "type": "Full-time · Hybrid",
+        "period": "Jul 2025 - Present · 5 mos",
+        "description": "Contributing to frontend development projects using React.js and React Native. Working with Docker and Nginx for infrastructure, React to Web Components migration, Material UI for component libraries, GitLab for version control, and implementing unit testing practices."
+      },
+      "freelance": {
+        "title": "Freelance Project Manager & Web Developer",
+        "company": "Self-employed",
+        "location": "Remote",
+        "type": "Full-time",
+        "period": "Jun 2022 - Present · 3 yrs 6 mos",
+        "description": "Successfully delivered over 12 projects across diverse domains, including web 2.0 applications, decentralized apps (dApps), blockchain-based marketplaces, and games.",
+        "achievements": [
+          "Managed end-to-end project lifecycles, from planning and design to development and deployment",
+          "Gained deep expertise in blockchain technology and smart contracts",
+          "Collaborated with clients to understand requirements, delivering tailor-made solutions",
+          "Managed cross-functional teams, coordinated resources, and met tight deadlines",
+          "Led marketing and client acquisition efforts through proposals and negotiations"
+        ]
+      },
+      "topgolf": {
+        "title": "Maintenance Technician",
+        "company": "Topgolf",
+        "location": "Addlestone, England, United Kingdom",
+        "type": "Full-time · On-site",
+        "period": "Sep 2017 - Jul 2019 · 1 yr 11 mos",
+        "description": "Played a key role in ensuring the seamless operation of the facility by maintaining and troubleshooting critical infrastructure and technical equipment."
+      }
+    },
+    "technologies": {
+      "reactjs": "React.js",
+      "reactNative": "React Native",
+      "docker": "Docker",
+      "nginx": "Nginx",
+      "webComponents": "Web Components",
+      "materialUI": "Material UI",
+      "gitlab": "GitLab",
+      "jest": "Jest",
+      "unitTesting": "Unit Testing",
+      "react": "React",
+      "blockchain": "Blockchain Technology",
+      "smartContracts": "Smart Contracts",
+      "dapp": "dApp Development",
+      "nodejs": "Node.js",
+      "git": "Git",
+      "digitalOcean": "Digital Ocean",
+      "ubuntu": "Ubuntu",
+      "technicalTroubleshooting": "Technical Troubleshooting",
+      "maintenanceManagement": "Maintenance Management"
+    }
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "My academic journey and qualifications",
+    "degrees": {
+      "bucks": {
+        "institution": "Buckinghamshire New University",
+        "degree": "Bachelor's of Science Computing and Web Development",
+        "grade": "Second Class Honours (Upper Division)",
+        "period": "Sep 2019 - Jul 2022",
+        "location": "United Kingdom",
+        "description": "I earned a Second Class Honours (Upper Division) in Computing and Web Development. Key modules included PHP, C#, C++, Database Design, Network Systems, Web Development, Cloud Computing, and Network Security. My coursework provided a solid foundation in both front-end and back-end technologies.",
+        "project": {
+          "title": "Final Year Project: Garden Booking System",
+          "description": "Designed a Garden Booking System with a customer-facing website and an admin portal. The system featured real-time bookings, secure user authentication, and a MySQL database for managing data. The project enhanced my skills in full-stack development, database management, and user experience (UX) design."
+        }
+      },
+      "guildford3": {
+        "institution": "Guildford College",
+        "degree": "IT LEVEL 3 Extended Diploma",
+        "grade": "Merit",
+        "period": "Sep 2017 - Jun 2019",
+        "location": "United Kingdom",
+        "description": "Completed an IT Level 3 Extended Diploma with a Merit, gaining foundational knowledge in Information Technology and developing skills in software development, network infrastructure, and technical support. Key projects included designing user-friendly applications and optimizing system workflows."
+      },
+      "guildford2": {
+        "institution": "Guildford College",
+        "degree": "IT LEVEL 2 Diploma",
+        "grade": "Merit",
+        "period": "Sep 2016 - Jun 2017",
+        "location": "United Kingdom",
+        "description": "Achieved a Merit in the IT Level 2 Diploma, developing foundational knowledge in Information Technology, including programming, hardware maintenance, and system troubleshooting. Gained hands-on experience in practical assignments, group projects, and technical problem-solving."
+      }
+    },
+    "skills": {
+      "projectManagement": "Project Development and Management",
+      "networkSecurity": "Network Security and Systems (Cisco)",
+      "databaseDesign": "Database Design",
+      "cloudComputing": "Cloud Computing",
+      "ciscoNetworking": "Cisco Networking",
+      "webDev": "Web Development (HTML, CSS, XML)",
+      "programming": "Programming (PHP, C#, C++)",
+      "it": "Information Technology",
+      "technicalSupport": "Technical Support",
+      "softwareDev": "Software Development",
+      "problemSolving": "Problem Solving",
+      "networking": "Networking",
+      "itFundamentals": "IT Fundamentals",
+      "teamCollaboration": "Team Collaboration",
+      "hardwareMaintenance": "Hardware Maintenance",
+      "visualBasic": "Visual Basic"
+    }
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "A selection of projects I've worked on across various domains",
+    "viewProject": "View Project",
+    "code": "Code",
+    "footer": "Successfully delivered over 12 projects across diverse domains",
+    "workTogether": "Let's Work Together",
+    "projectPrivate": "Project is private - client confidentiality",
+    "codePrivate": "Code is private - client confidentiality",
+    "items": {
+      "garden": {
+        "title": "Garden Booking System",
+        "description": "A full-stack booking system with customer-facing website and admin portal. Features real-time bookings, secure authentication, and MySQL database integration.",
+        "type": "Full-Stack Web Application",
+        "category": "University Project",
+        "technologies": ["PHP", "MySQL", "HTML", "CSS", "JavaScript"]
+      },
+      "marketplace": {
+        "title": "Blockchain Marketplace dApp",
+        "description": "A decentralized marketplace built on blockchain technology, enabling secure peer-to-peer transactions with smart contract integration.",
+        "type": "Decentralized Application",
+        "category": "Freelance Project",
+        "technologies": ["React", "Solidity", "Ethereum", "Web3.js", "Node.js"]
+      },
+      "game": {
+        "title": "Web 3.0 Game Platform",
+        "description": "An interactive gaming platform leveraging blockchain technology for asset ownership and in-game transactions.",
+        "type": "Gaming Platform",
+        "category": "Freelance Project",
+        "technologies": ["React", "React Native", "Smart Contracts", "Blockchain"]
+      },
+      "modern": {
+        "title": "Modern Web Application",
+        "description": "A responsive web application built with modern technologies, featuring real-time updates and seamless user experience.",
+        "type": "Web Application",
+        "category": "Freelance Project",
+        "technologies": ["React", "TypeScript", "Tailwind CSS", "Node.js", "Vercel"]
+      }
+    },
+    "categories": {
+      "university": "University Project",
+      "freelance": "Freelance Project"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.",
+    "linkedin": "LinkedIn",
+    "email": "Email",
+    "location": "Location",
+    "ctaTitle": "Let's Build Something Amazing Together",
+    "ctaDescription": "Whether you have a project in mind or just want to chat about technology, feel free to reach out!",
+    "connectLinkedin": "Connect on LinkedIn",
+    "sendEmail": "Send Email"
+  },
+  "contactModal": {
+    "title": "Send a Message",
+    "name": "Your Name",
+    "email": "Your Email",
+    "subject": "Subject",
+    "message": "Message",
+    "namePlaceholder": "John Doe",
+    "emailPlaceholder": "john@example.com",
+    "subjectPlaceholder": "Project Inquiry",
+    "messagePlaceholder": "Tell me about your project or just say hello!",
+    "cancel": "Cancel",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message Sent!",
+    "successMessage": "Thank you for your message! I'll get back to you as soon as possible.",
+    "error": "Error Sending Message",
+    "errorMessage": "Failed to send email. Please try again or email me directly at rodrigo.severino.marques@gmail.com",
+    "tryAgain": "Try Again",
+    "emailDirectly": "Email Directly",
+    "close": "Close"
+  },
+  "footer": {
+    "tagline": "React Frontend Developer | Web 3.0 & dApp Experience",
+    "madeWith": "Made with",
+    "by": "by Rodrigo Marques",
+    "rights": "All rights reserved"
+  }
+}
+

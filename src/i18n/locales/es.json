@@ -1,0 +1,254 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre",
+    "skills": "Habilidades",
+    "experience": "Experiencia",
+    "education": "Educación",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Rodrigo Marques",
+    "verified": "Verificado",
+    "role": "Desarrollador Web",
+    "description": "Desarrollador Frontend React | Experto en Web 3.0 & Desarrollo dApp",
+    "viewWork": "Ver Mi Trabajo",
+    "getInTouch": "Ponerse en Contacto"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "subtitle": "Desarrollador apasionado enfocado en crear experiencias digitales excepcionales",
+    "paragraph1": "Soy un Desarrollador Frontend apasionado con experiencia en React, React Native y tecnologías Web 3.0. Con más de 3 años de experiencia freelance, he entregado con éxito más de 12 proyectos en diversos dominios, incluyendo aplicaciones web, aplicaciones descentralizadas (dApps), marketplaces basados en blockchain y juegos interactivos.",
+    "paragraph2": "Mi viaje en tecnología comenzó con una base sólida en Informática y Desarrollo Web, donde obtuve un título de Segunda Clase Honores (División Superior). He trabajado en todo, desde aplicaciones web full-stack hasta soluciones blockchain de vanguardia, siempre enfocándome en entregar experiencias de alta calidad centradas en el usuario.",
+    "paragraph3": "Actualmente trabajo como Desarrollador Frontend Mid-Senior en Aceve y Hexa Consulting, especializándome en desarrollo React.js y React Native. Estoy ubicado en Seixal, Setúbal, Portugal, y siempre estoy emocionado de asumir nuevos desafíos y contribuir a proyectos innovadores.",
+    "features": {
+      "fullstack": {
+        "title": "Desarrollo Full-Stack",
+        "description": "Experto en tecnologías front-end y back-end"
+      },
+      "database": {
+        "title": "Diseño de Base de Datos",
+        "description": "Experiencia en MySQL y arquitectura de bases de datos"
+      },
+      "cloud": {
+        "title": "Computación en la Nube",
+        "description": "Conocimiento en infraestructura e implementación en la nube"
+      },
+      "security": {
+        "title": "Enfoque en Seguridad",
+        "description": "Comprensión de seguridad de red y mejores prácticas"
+      }
+    }
+  },
+  "skills": {
+    "title": "Habilidades y Tecnologías",
+    "subtitle": "Tecnologías con las que trabajo para crear aplicaciones increíbles",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend y Herramientas",
+      "blockchain": "Web 3.0 y Blockchain"
+    }
+  },
+  "experience": {
+    "title": "Experiencia Laboral",
+    "subtitle": "Mi viaje profesional y logros",
+    "jobs": {
+      "aceve": {
+        "title": "Frontend Mid-Senior",
+        "company": "Aceve",
+        "location": "Lisboa, Portugal",
+        "type": "Tiempo completo · Híbrido",
+        "period": "Jul 2025 - Presente · 5 meses",
+        "description": "Trabajando como Desarrollador Frontend Mid-Senior, enfocándome en desarrollo React.js y React Native. Utilizando Docker y Nginx para deployment, convirtiendo React a Web Components, trabajando con Material UI, gestionando proyectos con GitLab e implementando pruebas unitarias integrales."
+      },
+      "hexa": {
+        "title": "Frontend Mid-Senior",
+        "company": "Hexa Consulting",
+        "location": "Lisboa, Portugal",
+        "type": "Tiempo completo · Híbrido",
+        "period": "Jul 2025 - Presente · 5 meses",
+        "description": "Contribuyendo a proyectos de desarrollo frontend usando React.js y React Native. Trabajando con Docker y Nginx para infraestructura, migración de React a Web Components, Material UI para bibliotecas de componentes, GitLab para control de versiones e implementando prácticas de pruebas unitarias."
+      },
+      "freelance": {
+        "title": "Freelance Gestor de Proyectos y Desarrollador Web",
+        "company": "Por cuenta propia",
+        "location": "Remoto",
+        "type": "Tiempo completo",
+        "period": "Jun 2022 - Presente · 3 años 6 meses",
+        "description": "Entregué con éxito más de 12 proyectos en diversos dominios, incluyendo aplicaciones web 2.0, aplicaciones descentralizadas (dApps), marketplaces basados en blockchain y juegos.",
+        "achievements": [
+          "Gestioné ciclos de vida de proyectos de principio a fin, desde planificación y diseño hasta desarrollo y deployment",
+          "Adquirí experiencia profunda en tecnología blockchain y smart contracts",
+          "Colaboré con clientes para entender requisitos, entregando soluciones a medida",
+          "Gestioné equipos multidisciplinarios, coordiné recursos y cumplí plazos ajustados",
+          "Lideré esfuerzos de marketing y adquisición de clientes a través de propuestas y negociaciones"
+        ]
+      },
+      "topgolf": {
+        "title": "Técnico de Mantenimiento",
+        "company": "Topgolf",
+        "location": "Addlestone, Inglaterra, Reino Unido",
+        "type": "Tiempo completo · En sitio",
+        "period": "Sep 2017 - Jul 2019 · 1 año 11 meses",
+        "description": "Desempeñé un papel clave en garantizar el funcionamiento perfecto de las instalaciones manteniendo y solucionando problemas de infraestructura crítica y equipamiento técnico."
+      }
+    },
+    "technologies": {
+      "reactjs": "React.js",
+      "reactNative": "React Native",
+      "docker": "Docker",
+      "nginx": "Nginx",
+      "webComponents": "Web Components",
+      "materialUI": "Material UI",
+      "gitlab": "GitLab",
+      "jest": "Jest",
+      "unitTesting": "Pruebas Unitarias",
+      "react": "React",
+      "blockchain": "Tecnología Blockchain",
+      "smartContracts": "Smart Contracts",
+      "dapp": "Desarrollo dApp",
+      "nodejs": "Node.js",
+      "git": "Git",
+      "digitalOcean": "Digital Ocean",
+      "ubuntu": "Ubuntu",
+      "technicalTroubleshooting": "Resolución Técnica de Problemas",
+      "maintenanceManagement": "Gestión de Mantenimiento"
+    }
+  },
+  "education": {
+    "title": "Educación",
+    "subtitle": "Mi viaje académico y calificaciones",
+    "degrees": {
+      "bucks": {
+        "institution": "Buckinghamshire New University",
+        "degree": "Licenciatura en Ciencias de la Computación y Desarrollo Web",
+        "grade": "Segunda Clase Honores (División Superior)",
+        "period": "Sep 2019 - Jul 2022",
+        "location": "Reino Unido",
+        "description": "Obtuve una Segunda Clase Honores (División Superior) en Ciencias de la Computación y Desarrollo Web. Los módulos clave incluyeron PHP, C#, C++, Diseño de Base de Datos, Sistemas de Red, Desarrollo Web, Computación en la Nube y Seguridad de Red. Mi curso proporcionó una base sólida tanto en tecnologías front-end como back-end.",
+        "project": {
+          "title": "Proyecto Final: Sistema de Reservas de Jardines",
+          "description": "Diseñé un Sistema de Reservas de Jardines con un sitio web para clientes y un portal de administración. El sistema presentaba reservas en tiempo real, autenticación segura de usuarios y una base de datos MySQL para gestionar datos. El proyecto mejoró mis habilidades en desarrollo full-stack, gestión de bases de datos y diseño de experiencia de usuario (UX)."
+        }
+      },
+      "guildford3": {
+        "institution": "Guildford College",
+        "degree": "Diploma Extendido de Nivel 3 en IT",
+        "grade": "Mérito",
+        "period": "Sep 2017 - Jun 2019",
+        "location": "Reino Unido",
+        "description": "Completé un Diploma Extendido de Nivel 3 en IT con Mérito, adquiriendo conocimientos fundamentales en Tecnologías de la Información y desarrollando habilidades en desarrollo de software, infraestructura de red y soporte técnico. Los proyectos clave incluyeron diseñar aplicaciones amigables al usuario y optimizar flujos de trabajo del sistema."
+      },
+      "guildford2": {
+        "institution": "Guildford College",
+        "degree": "Diploma de Nivel 2 en IT",
+        "grade": "Mérito",
+        "period": "Sep 2016 - Jun 2017",
+        "location": "Reino Unido",
+        "description": "Logré un Mérito en el Diploma de Nivel 2 en IT, desarrollando conocimientos fundamentales en Tecnologías de la Información, incluyendo programación, mantenimiento de hardware y resolución de problemas del sistema. Adquirí experiencia práctica en tareas prácticas, proyectos grupales y resolución técnica de problemas."
+      }
+    },
+    "skills": {
+      "projectManagement": "Desarrollo y Gestión de Proyectos",
+      "networkSecurity": "Seguridad y Sistemas de Red (Cisco)",
+      "databaseDesign": "Diseño de Base de Datos",
+      "cloudComputing": "Computación en la Nube",
+      "ciscoNetworking": "Red Cisco",
+      "webDev": "Desarrollo Web (HTML, CSS, XML)",
+      "programming": "Programación (PHP, C#, C++)",
+      "it": "Tecnologías de la Información",
+      "technicalSupport": "Soporte Técnico",
+      "softwareDev": "Desarrollo de Software",
+      "problemSolving": "Resolución de Problemas",
+      "networking": "Red",
+      "itFundamentals": "Fundamentos de IT",
+      "teamCollaboration": "Colaboración en Equipo",
+      "hardwareMaintenance": "Mantenimiento de Hardware",
+      "visualBasic": "Visual Basic"
+    }
+  },
+  "projects": {
+    "title": "Proyectos Destacados",
+    "subtitle": "Una selección de proyectos en los que he trabajado en diversos dominios",
+    "viewProject": "Ver Proyecto",
+    "code": "Código",
+    "footer": "Más de 12 proyectos entregados con éxito en diversos dominios",
+    "workTogether": "Trabajemos Juntos",
+    "projectPrivate": "Proyecto es privado - confidencialidad del cliente",
+    "codePrivate": "Código es privado - confidencialidad del cliente",
+    "items": {
+      "garden": {
+        "title": "Sistema de Reservas de Jardines",
+        "description": "Un sistema de reservas full-stack con sitio web para clientes y portal de administración. Características incluyen reservas en tiempo real, autenticación segura e integración con base de datos MySQL.",
+        "type": "Aplicación Web Full-Stack",
+        "category": "Proyecto Universitario",
+        "technologies": ["PHP", "MySQL", "HTML", "CSS", "JavaScript"]
+      },
+      "marketplace": {
+        "title": "Marketplace Blockchain dApp",
+        "description": "Un marketplace descentralizado construido con tecnología blockchain, permitiendo transacciones peer-to-peer seguras con integración de smart contracts.",
+        "type": "Aplicación Descentralizada",
+        "category": "Proyecto Freelance",
+        "technologies": ["React", "Solidity", "Ethereum", "Web3.js", "Node.js"]
+      },
+      "game": {
+        "title": "Plataforma de Juegos Web 3.0",
+        "description": "Una plataforma de juegos interactiva que aprovecha la tecnología blockchain para propiedad de activos y transacciones en el juego.",
+        "type": "Plataforma de Juegos",
+        "category": "Proyecto Freelance",
+        "technologies": ["React", "React Native", "Smart Contracts", "Blockchain"]
+      },
+      "modern": {
+        "title": "Aplicación Web Moderna",
+        "description": "Una aplicación web responsiva construida con tecnologías modernas, presentando actualizaciones en tiempo real y experiencia de usuario perfecta.",
+        "type": "Aplicación Web",
+        "category": "Proyecto Freelance",
+        "technologies": ["React", "TypeScript", "Tailwind CSS", "Node.js", "Vercel"]
+      }
+    },
+    "categories": {
+      "university": "Proyecto Universitario",
+      "freelance": "Proyecto Freelance"
+    }
+  },
+  "contact": {
+    "title": "Ponerse en Contacto",
+    "subtitle": "Siempre estoy abierto a discutir nuevos proyectos, ideas creativas u oportunidades para ser parte de tus visiones.",
+    "linkedin": "LinkedIn",
+    "email": "Email",
+    "location": "Ubicación",
+    "ctaTitle": "Construyamos Algo Increíble Juntos",
+    "ctaDescription": "Ya sea que tengas un proyecto en mente o solo quieras charlar sobre tecnología, ¡no dudes en contactarme!",
+    "connectLinkedin": "Conectar en LinkedIn",
+    "sendEmail": "Enviar Email"
+  },
+  "contactModal": {
+    "title": "Enviar Mensaje",
+    "name": "Tu Nombre",
+    "email": "Tu Email",
+    "subject": "Asunto",
+    "message": "Mensaje",
+    "namePlaceholder": "Juan Pérez",
+    "emailPlaceholder": "juan@ejemplo.com",
+    "subjectPlaceholder": "Consulta de Proyecto",
+    "messagePlaceholder": "Cuéntame sobre tu proyecto o simplemente di hola!",
+    "cancel": "Cancelar",
+    "send": "Enviar Mensaje",
+    "sending": "Enviando...",
+    "success": "¡Mensaje Enviado!",
+    "successMessage": "¡Gracias por tu mensaje! Te responderé lo antes posible.",
+    "error": "Error al Enviar Mensaje",
+    "errorMessage": "Error al enviar email. Por favor, intenta nuevamente o envíame un email directamente a rodrigo.severino.marques@gmail.com",
+    "tryAgain": "Intentar Nuevamente",
+    "emailDirectly": "Enviar Email Directamente",
+    "close": "Cerrar"
+  },
+  "footer": {
+    "tagline": "Desarrollador Frontend React | Experiencia en Web 3.0 y dApp",
+    "madeWith": "Hecho con",
+    "by": "por Rodrigo Marques",
+    "rights": "Todos los derechos reservados"
+  }
+}
+

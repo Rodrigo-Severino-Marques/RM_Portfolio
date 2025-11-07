@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- RM text with gradient -->
+  <defs>
+    <linearGradient id="rmGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#22d3ee;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#2dd4bf;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#34d399;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- RM letters - bold and centered -->
+  <text 
+    x="32" 
+    y="44" 
+    font-family="system-ui, -apple-system, 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', sans-serif" 
+    font-size="36" 
+    font-weight="900" 
+    text-anchor="middle" 
+    fill="url(#rmGradient)"
+    letter-spacing="-1.5"
+    dominant-baseline="middle"
+  >
+    RM
+  </text>
+</svg>
+
