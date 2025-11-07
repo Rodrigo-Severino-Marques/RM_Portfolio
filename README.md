@@ -1,5 +1,7 @@
 # Rodrigo Marques Portfolio
 
+![Portfolio Preview](./public/preview.png)
+
 A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS. This project serves as my personal portfolio, but I've made it available for the community to use, learn from, and customize for their own portfolios.
 
 ## 🌟 Features
@@ -129,6 +131,8 @@ Rodrigo Marques - [rodrigo.severino.marques@gmail.com](mailto:rodrigo.severino.m
 Project Link: [https://github.com/Rodrigo-Severino-Marques/RM_Portfolio](https://github.com/Rodrigo-Severino-Marques/RM_Portfolio)
 
 ---
+
+![Get In Touch Section](./public/getintouch.png)
 
 **Note**: This is my personal portfolio, but I've shared it with the community so others can learn from it and use it as a starting point for their own portfolios. Feel free to customize it to make it your own! However, **reselling this project or any derivative works is strictly prohibited**.
 
